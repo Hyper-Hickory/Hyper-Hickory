@@ -1,129 +1,125 @@
-<h1 align="center">Hi 👋, I'm Bipin</h1>
-<h3 align="center">Aspiring Software Developer | Android Learner | AI & Web Enthusiast</h3>
+<h1 align="center">Hi, I'm Bipin Kuruvilla</h1>
+
+<h3 align="center">
+Software Developer • Java • Flutter • React • Node.js • AI/ML
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hyper-hickory&label=Profile%20Views&color=blue&style=flat" alt="profile-views" />
+<img src="https://komarev.com/ghpvc/?username=hyper-hickory&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-I am a passionate and hardworking developer building real-world applications using  
-**Java, Python, SQL, Android, and Web technologies**.
+I'm a Computer Engineering student passionate about building software that solves real-world problems.
 
-I love creating apps that solve real problems — from travel assistance to music systems to news verification using AI.
+My interests span **Full Stack Development, Mobile Applications, Backend Engineering, Artificial Intelligence, and Public Healthcare Technology**. I enjoy designing scalable systems, learning new technologies, and continuously improving my software engineering skills through hands-on projects.
 
-✨ What I enjoy:
-- Building practical apps & solving real-world problems  
-- Exploring AI, ML and chatbot features  
-- Creating Android apps with Maps, Firebase & Notifications  
-- Writing clean, understandable code  
-- Learning DSA for placements  
+Currently focusing on:
 
-🔥 What I'm currently working on:
-- Improving DSA in Java  
-- Building AI-integrated Android applications  
-- Expanding backend + database knowledge  
+- Data Structures & Algorithms in Java
+- Backend Development
+- Flutter Application Development
+- System Design Fundamentals
+- AI-powered Software Solutions
 
 ---
 
-## 🌍 Connect With Me
+## Featured Projects
+
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| **Arogya-SMC** | Smart Public Health Monitoring & Decision Support System for Solapur Municipal Corporation. Includes ASHA Worker App, Citizen App, Municipal Dashboard and Backend Services. Selected among **Top 7 teams** at **SAMVED 2026**. | Flutter • React • Node.js • PostgreSQL |
+| **Travel Companion** | AI-powered Android application featuring itinerary planning, chatbot assistance, Google Maps integration, Firebase services, TensorFlow Lite recommendations and offline support. | Java • Firebase • Google Maps • TensorFlow Lite |
+| **Erticle** | AI-assisted news verification platform supporting article publishing, fact-checking and user-generated content. | HTML • CSS • JavaScript • AI APIs |
+| **Music Management System** | Desktop application for managing music records with CRUD operations and database integration. | Java • Swing • JDBC • MySQL |
+
+---
+
+## Technical Skills
+
+| Category | Technologies |
+|----------|--------------|
+| Languages | Java, Python, JavaScript, C, SQL |
+| Frontend | React, HTML5, CSS3 |
+| Mobile | Flutter, Android (Java) |
+| Backend | Node.js |
+| Databases | PostgreSQL, MySQL, SQLite |
+| Tools | Git, GitHub, Firebase, Linux, VS Code |
+| AI & ML | TensorFlow Lite, Gemini API |
+
+---
+
+## Currently Learning
+
+- Advanced Data Structures & Algorithms
+- Backend Architecture
+- REST API Design
+- System Design
+- Cloud Fundamentals
+- Flutter Development
+
+---
+
+## Achievements
+
+- Top 7 Team — **SAMVED 2026 Innovation Challenge** (546 teams across 10 states)
+- Computer Engineering Student (AI/ML Honours)
+- Developed multiple real-world software projects across Healthcare, AI and Mobile Development
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=hyper-hickory&show_icons=true&theme=tokyonight" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hyper-hickory&theme=tokyonight" height="165"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyper-hickory&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/bipin kuruvilla" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="30"/>
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35"/>
 </a>
-<a href="https://instagram.com/bipinpkuruvilla" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="30"/>
+
+<a href="https://instagram.com/bipinpkuruvilla">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="35"/>
 </a>
+
 </p>
 
-📧 Email: **bipinkuruvilla134@gmail.com**
+**Email:** bipinkuruvilla134@gmail.com
 
 ---
 
-## ⚒️ Skills & Technologies
+## Interests
 
-### 🧠 Programming Languages  
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40">
-</p>
-
-### 🗄 Databases  
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40">
-</p>
-
-### 📱 Android Development  
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40">
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40">
-</p>
-
-### 🌐 Web Development  
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40">
-</p>
+- Full Stack Development
+- Backend Engineering
+- Mobile Application Development
+- Artificial Intelligence
+- Open Source
+- Public Healthcare Technology
+- Software Architecture
 
 ---
-
-## 🚀 Projects I Have Built
-
-### 🗺️ **Travel Companion Android App**  
-AI + ML powered travel assistant built using  
-**Java, Google Maps SDK, Firebase, Room DB, Gemini AI, TensorFlow.**  
-Includes chatbot, ML recommendations, smart notifications, and offline dataset.
-
-### 🎵 **Music Management System**  
-Java + MySQL project for adding, updating, deleting and managing songs.  
-GUI-based using Swing + JDBC.
-
-### 📰 **Erticle – AI Verified News Website**  
-Real-time news, AI fact-checking, user submissions, Supabase DB support.  
-Built using **JavaScript, HTML, CSS and AI APIs**.
-
-### 🏥 **Hospital Database System**  
-SQL + ER Diagram + queries + triggers for managing hospital workflow.  
-
-### 🔢 **Python Projects**  
-CSV processing, bank account system (OOP), regex extraction & more.
-
----
-
-## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hyper-hickory&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hyper-hickory&theme=tokyonight" height="150"/>
+
+Building software that creates meaningful real-world impact.
+
 </p>
-
----
-
-## 🚀 What I Can Build
-
-✔ Android apps with Maps, Firebase, Notifications  
-✔ AI-integrated chatbots for mobile & web  
-✔ SQL-backed backend systems  
-✔ Practical real-world apps (Travel, Music, News verification)  
-✔ Educational + data-focused projects  
-
----
-
-## 🎯 Current Goals
-
-- Improve DSA for placements  
-- Build more Android + AI apps  
-- Learn advanced Firebase + Cloud integration  
-- Become a strong full-stack + mobile developer  
-
----
-
-<p align="center">✨ Always open to learning, building, and improving ✨</p>
