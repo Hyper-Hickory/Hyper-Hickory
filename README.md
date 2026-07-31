@@ -97,23 +97,27 @@ I'm always looking for opportunities to learn, collaborate, and build software t
 - Computer Engineering Student specializing in AI/ML
 
 ---
-
 ## GitHub Statistics
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hyper-hickory&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hyper-hickory&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hyper-hickory&theme=tokyonight" height="170"/>
+<img src="https://streak-stats.demolab.com?user=hyper-hickory&theme=tokyonight&hide_border=true" height="170"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyper-hickory&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyper-hickory&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hyper-hickory&theme=tokyo-night&hide_border=true"/>
+
+</p>
 ---
 
 ## Connect
